@@ -1767,11 +1767,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kgopo\\Downloads\\C#\\Portfolio\\Client\\Client.csproj",
+      "projectUniqueName": "C:\\Users\\kgopo\\Source\\Repos\\portfolio\\Client\\Client.csproj",
       "projectName": "Client",
-      "projectPath": "C:\\Users\\kgopo\\Downloads\\C#\\Portfolio\\Client\\Client.csproj",
+      "projectPath": "C:\\Users\\kgopo\\Source\\Repos\\portfolio\\Client\\Client.csproj",
       "packagesPath": "C:\\Users\\kgopo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kgopo\\Downloads\\C#\\Portfolio\\Client\\obj\\",
+      "outputPath": "C:\\Users\\kgopo\\Source\\Repos\\portfolio\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kgopo\\AppData\\Roaming\\NuGet\\NuGet.Config",

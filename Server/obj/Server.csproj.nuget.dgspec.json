@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kgopo\\Downloads\\C#\\Portfolio\\Server\\Server.csproj": {}
+    "C:\\Users\\kgopo\\Source\\Repos\\portfolio\\Server\\Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kgopo\\Downloads\\C#\\Portfolio\\Server\\Server.csproj": {
+    "C:\\Users\\kgopo\\Source\\Repos\\portfolio\\Server\\Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kgopo\\Downloads\\C#\\Portfolio\\Server\\Server.csproj",
+        "projectUniqueName": "C:\\Users\\kgopo\\Source\\Repos\\portfolio\\Server\\Server.csproj",
         "projectName": "Server",
-        "projectPath": "C:\\Users\\kgopo\\Downloads\\C#\\Portfolio\\Server\\Server.csproj",
+        "projectPath": "C:\\Users\\kgopo\\Source\\Repos\\portfolio\\Server\\Server.csproj",
         "packagesPath": "C:\\Users\\kgopo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kgopo\\Downloads\\C#\\Portfolio\\Server\\obj\\",
+        "outputPath": "C:\\Users\\kgopo\\Source\\Repos\\portfolio\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kgopo\\AppData\\Roaming\\NuGet\\NuGet.Config",

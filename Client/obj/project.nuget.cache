@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PFMh453qSEJeIFnQ8yAgq69myqrNY+6x5yT+n1F930zR/cKouQBRGQkzZ/gvXFBBw5+ktF5wy95t0eaZM1CcZA==",
+  "dgSpecHash": "DO4Z1RMzRMeEKI8cYyp1Oftygns6EnCOoK+7hquZwTfVfth61MmEhB7YemY6XJecYDO0kAR/NemMD4wz5ntLwA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kgopo\\Downloads\\C#\\Portfolio\\Client\\Client.csproj",
+  "projectFilePath": "C:\\Users\\kgopo\\Source\\Repos\\portfolio\\Client\\Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kgopo\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.15\\microsoft.aspnetcore.authorization.6.0.15.nupkg.sha512",
     "C:\\Users\\kgopo\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.15\\microsoft.aspnetcore.components.6.0.15.nupkg.sha512",
