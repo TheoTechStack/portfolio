@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kgopo\\Downloads\\C#\\Portfolio\\Shared\\Shared.csproj": {}
+    "C:\\Users\\kgopo\\source\\repos\\portfolio\\Shared\\Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kgopo\\Downloads\\C#\\Portfolio\\Shared\\Shared.csproj": {
+    "C:\\Users\\kgopo\\source\\repos\\portfolio\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kgopo\\Downloads\\C#\\Portfolio\\Shared\\Shared.csproj",
+        "projectUniqueName": "C:\\Users\\kgopo\\source\\repos\\portfolio\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "C:\\Users\\kgopo\\Downloads\\C#\\Portfolio\\Shared\\Shared.csproj",
+        "projectPath": "C:\\Users\\kgopo\\source\\repos\\portfolio\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\kgopo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kgopo\\Downloads\\C#\\Portfolio\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\kgopo\\source\\repos\\portfolio\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kgopo\\AppData\\Roaming\\NuGet\\NuGet.Config",
