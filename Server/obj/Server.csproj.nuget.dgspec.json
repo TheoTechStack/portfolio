@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kgopo\\Source\\Repos\\portfolio\\Server\\Server.csproj": {}
+    "C:\\Users\\kgopo\\source\\repos\\portfolio\\Server\\Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kgopo\\Source\\Repos\\portfolio\\Server\\Server.csproj": {
+    "C:\\Users\\kgopo\\source\\repos\\portfolio\\Server\\Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kgopo\\Source\\Repos\\portfolio\\Server\\Server.csproj",
+        "projectUniqueName": "C:\\Users\\kgopo\\source\\repos\\portfolio\\Server\\Server.csproj",
         "projectName": "Server",
-        "projectPath": "C:\\Users\\kgopo\\Source\\Repos\\portfolio\\Server\\Server.csproj",
+        "projectPath": "C:\\Users\\kgopo\\source\\repos\\portfolio\\Server\\Server.csproj",
         "packagesPath": "C:\\Users\\kgopo\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\kgopo\\Source\\Repos\\portfolio\\Server\\obj\\",
         "projectStyle": "PackageReference",

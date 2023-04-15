@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kgopo\\Source\\Repos\\portfolio\\Client\\Client.csproj": {}
+    "C:\\Users\\kgopo\\source\\repos\\portfolio\\Client\\Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kgopo\\Source\\Repos\\portfolio\\Client\\Client.csproj": {
+    "C:\\Users\\kgopo\\source\\repos\\portfolio\\Client\\Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kgopo\\Source\\Repos\\portfolio\\Client\\Client.csproj",
+        "projectUniqueName": "C:\\Users\\kgopo\\source\\repos\\portfolio\\Client\\Client.csproj",
         "projectName": "Client",
-        "projectPath": "C:\\Users\\kgopo\\Source\\Repos\\portfolio\\Client\\Client.csproj",
+        "projectPath": "C:\\Users\\kgopo\\source\\repos\\portfolio\\Client\\Client.csproj",
         "packagesPath": "C:\\Users\\kgopo\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\kgopo\\Source\\Repos\\portfolio\\Client\\obj\\",
         "projectStyle": "PackageReference",

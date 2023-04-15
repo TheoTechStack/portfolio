@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SMoRC2Cy+sQvwv8yl4HPmdn8Xb/lXlzbBBkuZyYASM7nsdKOOcicO2BWjQxZqXtlAzZWBmereOJnaB6cm5mVDg==",
+  "dgSpecHash": "8fN9j7FkIIToxaAYKb28IXAmLXVx2AQ9Yze0ahUBaBIhl+L6jpD3PmKrChLvcAxzHdbGk37DtYJHw5pM7Xf4VA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kgopo\\Source\\Repos\\portfolio\\Server\\Server.csproj",
+  "projectFilePath": "C:\\Users\\kgopo\\source\\repos\\portfolio\\Server\\Server.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

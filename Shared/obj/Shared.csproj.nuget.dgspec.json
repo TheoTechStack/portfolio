@@ -11,7 +11,7 @@
         "projectName": "Shared",
         "projectPath": "C:\\Users\\kgopo\\source\\repos\\portfolio\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\kgopo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kgopo\\source\\repos\\portfolio\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\kgopo\\Source\\Repos\\portfolio\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kgopo\\AppData\\Roaming\\NuGet\\NuGet.Config",
